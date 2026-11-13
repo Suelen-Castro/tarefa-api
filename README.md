@@ -29,3 +29,4 @@ curl localhost:3000/tasks
 
 Gatilho: Pull Request para `main`.
 `lint` + `format` + `security` (em paralelo) -> `build` -> `unit-test` -> `integration-test` -> `docker`
+Teste do pipeline de CI
